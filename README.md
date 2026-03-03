@@ -10,7 +10,6 @@ Calculate how much 2+2 or 2*2 is and much more. You can also change the calculat
 ## 🔧 Tech Stack
 Python — core programming language <br>
 Tkinter — GUI framework for building desktop applications <br>
-OOP — architectural paradigm
 
 
  
