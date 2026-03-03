@@ -40,5 +40,11 @@ def load_themes(root):
             "font": ('Impact', 18),
             "theme_icon": tk.PhotoImage(master=root, file="source/light_mode.png")
         }
+
+        # You can also add your own colors
+        # "theme name": {
+        
+        # }
     }
+
 
